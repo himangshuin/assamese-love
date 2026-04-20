@@ -10,15 +10,15 @@ const gifStages = [
 ]
 
 const noMessages = [
-    "No",
-    "Are you positive? 🤔",
+    "না",
+    "তুমি একেবাৰে positive??? 🤔",
     "Pookie please... 🥺",
-    "If you say no, I will be really sad...",
-    "I will be very sad... 😢",
-    "Please??? 💔",
-    "Don't do this to me...",
-    "Last chance! 😭",
-    "You can't catch me anyway 😜"
+    "তুমি যদি ‘না’ কোৱা, মই সঁচাকৈয়ে বৰ দুখ পাম...",
+    "মোৰ বহুত মনটো বেয়া লাগিব... 😢",
+    "প্লিজ??? 💔",
+    "মোৰ লগত এনেকুৱা নকৰিবা...",
+    "এইটোৱে শেষ সুযোগ! 😭",
+    "যিয়েই নহওক, তুমি মোক ধৰিব নোৱাৰা 😜"
 ]
 
 const yesTeasePokes = [
