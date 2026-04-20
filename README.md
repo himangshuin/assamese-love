@@ -18,7 +18,7 @@ You've got three options — pick whatever works for you.
 No setup needed. Just send this link:
 
 ```
-https://sahilgogna.github.io/v-day
+https://himangshuin.github.io/assamese-love
 ```
 
 That's it. Done. You're welcome.
@@ -30,7 +30,7 @@ That's it. Done. You're welcome.
 Want your own version you can customize? Follow these steps:
 
 #### 1. Fork the Repo
-- Go to [github.com/SahilGogna/v-day](https://github.com/SahilGogna/v-day)
+- Go to [github.com/himangshuin/assamese-love/](https://github.com/himangshuin/assamese-love/)
 - Click the **Fork** button in the top-right corner
 - This creates a copy of the repo under your GitHub account
 
@@ -45,7 +45,7 @@ Want your own version you can customize? Follow these steps:
 - GitHub will build and deploy your site
 - Your site will be live at:
   ```
-  https://yourusername.github.io/v-day
+  https://yourusername.github.io/assamese-love
   ```
   (Replace `yourusername` with your actual GitHub username)
 
