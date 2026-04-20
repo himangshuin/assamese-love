@@ -22,10 +22,10 @@ const noMessages = [
 ]
 
 const yesTeasePokes = [
-    "try saying no first... I bet you want to know what happens 😏",
-    "go on, hit no... just once 👀",
-    "you're missing out 😈",
-    "click no, I dare you 😏"
+    "প্ৰথমে ‘না’ বুলি কৈ চোৱাচোন... মই নিশ্চিত যে তাৰ পিছত কি হ’ব তুমি জানিব বিচাৰিবা 😏",
+    "দিয়া, ‘নো’ (No) টিপি দিয়া... মাত্ৰ এবাৰ 👀",
+    "তুমি এটা ডাঙৰ সুযোগ হেৰুৱাই আছা 😈",
+    "‘নো’ ক্লিক কৰাচোন, 😏, I dare you 😏"
 ]
 
 let yesTeasedCount = 0
