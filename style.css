@@ -204,3 +204,83 @@ h1 {
     width: 260px;
     height: 260px;
 }
+
+
+        /* ---------- FOOTER CREDIT SECTION (small, subtle, elegant) ---------- */
+        .footer-credit {
+            position: fixed;
+            bottom: 12px;
+            left: 0;
+            right: 0;
+            text-align: center;
+            font-size: 0.75rem;
+            font-family: system-ui, 'Segoe UI', 'Noto Serif Bengali', sans-serif;
+            z-index: 99;
+            background: rgba(255, 240, 243, 0.65);
+            backdrop-filter: blur(6px);
+            padding: 5px 12px;
+            width: fit-content;
+            margin: 0 auto;
+            border-radius: 60px;
+            letter-spacing: 0.3px;
+            font-weight: 450;
+            color: #b54164;
+            border: 0.5px solid rgba(255, 170, 190, 0.7);
+            transition: 0.2s;
+            pointer-events: auto;
+        }
+
+        .footer-credit a {
+            color: #c42d5c;
+            text-decoration: none;
+            font-weight: 600;
+            background: rgba(255, 230, 235, 0.7);
+            padding: 2px 8px;
+            border-radius: 40px;
+            transition: all 0.2s ease;
+            display: inline-block;
+            margin-left: 6px;
+            backdrop-filter: blur(2px);
+            font-size: 0.72rem;
+        }
+
+        .footer-credit a:hover {
+            background: #ffb6c9;
+            color: #831f45;
+            text-decoration: underline;
+            transform: scale(1.02);
+        }
+
+        .footer-credit span {
+            font-weight: 500;
+            opacity: 0.9;
+        }
+
+        /* responsive adjustments */
+        @media (max-width: 550px) {
+            .container {
+                padding: 1.4rem;
+            }
+            h1 {
+                font-size: 1.7rem;
+            }
+            button {
+                font-size: 1.5rem;
+                padding: 0.5rem 1.3rem;
+            }
+            .footer-credit {
+                font-size: 0.65rem;
+                bottom: 8px;
+                padding: 3px 12px;
+            }
+            .footer-credit a {
+                font-size: 0.65rem;
+                padding: 1px 6px;
+            }
+            #music-toggle {
+                bottom: 14px;
+                right: 14px;
+                font-size: 1.4rem;
+                padding: 0.4rem 0.7rem;
+            }
+        }
